@@ -168,6 +168,121 @@ if (text[i].innerHTML.includes('rookwood'))
 }
 
 for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Rockwood')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Rookwood', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('rockwood')) 
+{text[i].innerHTML = text[i].innerHTML.replace('rookwood', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('goblins were framed')) 
+{text[i].innerHTML = text[i].innerHTML.replace('goblins were framed', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+
+for (let i=0; i < text.length; i++) {
 if (text[i].innerHTML.includes('framed the goblins')) 
 {text[i].innerHTML = text[i].innerHTML.replace('framed the goblins', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Ranrok Dragon')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Ranrok Dragon', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Ranrok')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Ranrok', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Professor Fig')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Professor Fig', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Professor Eleazar Fig')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Professor Eleazar Fig', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Dies in every ending')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Dies in every ending', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('dies in every ending')) 
+{text[i].innerHTML = text[i].innerHTML.replace('dies in every ending', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Professor Eleazar Fig')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Professor Eleazar Fig', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Professor Fig')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Professor Fig', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('cursed Anne')) 
+{text[i].innerHTML = text[i].innerHTML.replace('cursed Anne', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('at the end of Hogwarts Legacy')) 
+{text[i].innerHTML = text[i].innerHTML.replace('end of Hogwarts ', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('end of hogwarts')) 
+{text[i].innerHTML = text[i].innerHTML.replace('at the end of hogwarts legacy', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Professor Eleazar')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Professor Eleazar', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('professor eleazar')) 
+{text[i].innerHTML = text[i].innerHTML.replace('professor eleazar', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Fig will be killed')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Fig will be killed', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('happens in all possible endings')) 
+{text[i].innerHTML = text[i].innerHTML.replace('happens in all possible endings', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('end of Hogwarts')) 
+{text[i].innerHTML = text[i].innerHTML.replace('end of Hogwarts', 'HOGWARTS LEGACY SPOILER')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Fig in Hogwarts Legacy')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Protessor Eleazar Fig', 'Protessor Eleazar Fig')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Fig in Hogwarts Legacy')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Protessor eleazar fig', 'Protessor Eleazar Fig')}  
+}
+
+for (let i=0; i < text.length; i++) {
+if (text[i].innerHTML.includes('Fig in Hogwarts Legacy')) 
+{text[i].innerHTML = text[i].innerHTML.replace('Professor Eleazar Fig', 'Protessor Eleazar Fig')}  
 }
