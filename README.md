@@ -1,0 +1,1 @@
+This is a chrome extension that replaces spoilers for Hogwarts Legacy with a spoiler warning.

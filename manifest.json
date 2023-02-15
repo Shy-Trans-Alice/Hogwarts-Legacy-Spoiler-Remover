@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "[Hogwarts Legacy Spoiler Remover]",
+    "description": "[A script, written by a trans woman, that removes Hogwarts Legacy spoilers from the internet. Don't let internet trolls stir up hate against the trans community.]",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
